@@ -5,6 +5,8 @@
 - 📫 How to reach me: egunnjr@gunnchos.com
 - 😄 Pronouns: He/him
 - ⚡ Fun fact: Semi Aqauitic, Semi Robotic
+- 🧙‍♂️ Resume link: https://drive.google.com/file/d/16B0HfmgtuavxCf8s8fYKeTgfC8E7slOu/view?usp=sharing
+- 🫂 CV Link: https://drive.google.com/file/d/1N31W51xRDwJt3whfIf5GfcUnTK84gbDC/view?usp=sharing
 
 <!---
 gunnchOS3k/gunnchOS3k is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
