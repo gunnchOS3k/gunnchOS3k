@@ -1,7 +1,7 @@
 # Hi there, I'm Edmund Gunn, Jr. 👋
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Quantitative+Researcher+%7C+Systems+Engineer;MS+Computer+Engineering+%40+NYU;Cybersecurity+%7C+6G%2FURLLC+Research;Python+%7C+C%2B%2B+%7C+Linux+%7C+ML" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&lines=Quantitative+Researcher+%7C+Systems+Engineer;MS+Computer+Engineering+%40+NYU;Cybersecurity+%7C+6G%2FURLLC+Research;Python+%7C+C%2B%2B+%7C+Linux+%7C+ML" alt="Typing SVG" />
 </div>
 
 ## 🚀 About Me
