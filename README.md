@@ -155,10 +155,10 @@ Technical instruction and curriculum development for Python, Java, data structur
 
 ## 📚 Publications & Presentations
 
-- **6G URLLC Beam Management** - Research presentation and demo (2024-2025)
-- **FINDS Project** - NASA Space Apps NYC presentation and slides | Winner: Best Use of Google Gemini
-- **EdgeGesture Arcade** - Qualcomm Edge AI Hackathon presentation | <50ms latency achievement
-- **SpectrumX AI-RAN Gary** - SpectrumX Student Data & Algorithm Competition (2025)
+- **6G URLLC Beam Management** - Research presentation and demo (2024-Present)
+- **FINDS Project** - NASA Space Apps NYC presentation and slides | Winner: Best Use of Google Gemini (2025)
+- **EdgeGesture Arcade** - Qualcomm Edge AI Hackathon presentation | <50ms latency achievement (2025)
+- **SpectrumX AI-RAN Gary** - SpectrumX Student Data & Algorithm Competition (2025-2026)
 
 ---
 
