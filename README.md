@@ -40,7 +40,7 @@ Real-time gesture recognition system achieving <50ms latency on ARM-based Linux 
 ### 🦈 [FINDS – Sharks From Space](https://github.com/gunnchOS3k/FINDS-Sharks-From-Space)
 **NASA Space Apps NYC Winner | Data Science | Edge Computing**
 
-AI-powered system predicting shark activity hotspots using NASA satellite data. Features real-time 3D visualization (Deck.gl), statistical analysis, and cloud infrastructure (Cloudflare R2, Workers). Won **Best Use of Google Gemini** at NASA Space Apps NYC 2024.
+AI-powered system predicting shark activity hotspots using NASA satellite data. Features real-time 3D visualization (Deck.gl), statistical analysis, and cloud infrastructure (Cloudflare R2, Workers). Won **Best Use of Google Gemini** at NASA Space Apps NYC 2025.
 
 - 🏆 **Achievement**: NASA Space Apps NYC Winner - Best Use of Google Gemini
 - 📊 **Data Science**: Statistical analysis, pattern recognition, predictive modeling with NASA MODIS/VIIRS data
