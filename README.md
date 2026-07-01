@@ -148,7 +148,11 @@ Technical instruction and curriculum development for Python, Java, data structur
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.demolab.com/?user=gunnchOS3k&theme=tokyonight" alt="GitHub Streak"/>
+  <img
+    height="180"
+    src="https://streak-stats.demolab.com/?user=gunnchOS3k&theme=tokyonight"
+    alt="GitHub Streak"
+  />
 </div>
 
 ---
