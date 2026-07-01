@@ -143,12 +143,24 @@ Technical instruction and curriculum development for Python, Java, data structur
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gunnchOS3k&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gunnchOS3k&layout=compact&langs_count=8&theme=tokyonight"/>
+  <img
+    height="180"
+    src="https://github-readme-stats.vercel.app/api?username=gunnchOS3k&show_icons=true&theme=tokyonight&rank_icon=github&custom_title=Edmund%20Gunn%2C%20Jr.%27s%20GitHub%20Stats&cache_seconds=86400"
+    alt="Edmund Gunn, Jr.'s GitHub Stats"
+  />
+  <img
+    height="180"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=gunnchOS3k&layout=compact&langs_count=8&theme=tokyonight&cache_seconds=86400"
+    alt="gunnchOS3k Most Used Languages"
+  />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.demolab.com/?user=gunnchOS3k&theme=tokyonight" alt="GitHub Streak"/>
+  <img
+    height="180"
+    src="https://streak-stats.demolab.com/?user=gunnchOS3k&theme=tokyonight&cache_seconds=86400"
+    alt="GitHub Streak"
+  />
 </div>
 
 ---
