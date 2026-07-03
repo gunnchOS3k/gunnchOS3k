@@ -112,7 +112,7 @@ Technical instruction and curriculum development for Python, Java, data structur
 
 - 🎓 **MS Computer Engineering** - New York University, Tandon School of Engineering
   - *Focus: 6G URLLC Beam Management, Secure SoC Design, Edge AI*
-  - *Expected: December 2025 | GPA: 3.4*
+  - *Graduated: May 2026 | GPA: 3.4*
 
 - 🎓 **BS Computer Information Technology** - Purdue University
   - *Graduated: December 2021 | GPA: 3.71*
