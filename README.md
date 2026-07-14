@@ -4,6 +4,29 @@
 
 I'm an MS Computer Engineering graduate from NYU Tandon specializing in **6G URLLC beam management**, **edge AI systems**, and **AI-native RAN controllers**. As founder of gunnchOS3k MLV, I lead initiatives like **WAIKE Gary UPNOW** (Wireless + AI Kinesthetic Education for Gary, Indiana) to bridge the digital divide in underserved communities.
 
+## Role-specific portfolio paths
+
+### Agentic SecOps / AI-assisted security operations
+- [gunnchAI3k Agentic SecOps Lab](https://github.com/gunnchOS3k/gunnchAI3k) — mock threat report → IOC extraction → detection skeleton → triage playbook
+- Focus: SIEM-style investigation, YARA-L/Sigma-style detections, GenAI safety risks (portfolio-safe mock data only)
+
+### Access Risk Intelligence / Zero Trust
+- [gunnchOS Access Risk Intelligence Lab](https://github.com/gunnchOS3k/gunnchos-device-os) — mock IAM bindings → access graph → attack path risk → least privilege recommendations
+- Focus: IAM, access intelligence, least privilege, security invariants
+
+### Console RTL Verification / Hardware
+- [gunnchOS Console RTL Verification Lab](https://github.com/gunnchOS3k/eg3573-ece-6443-sram-bist-project/tree/main/console_rtl_verification_lab) — SRAM/BIST + framebuffer register block + SVA + verification plan
+- Focus: SystemVerilog, RTL verification planning, coverage, memory/display subsystem reasoning
+
+### 6G / AI-RAN / Digital Equity Research
+- [gunnchos 7GC AI-RAN Field Kit](https://github.com/gunnchOS3k/gunnchos-7gc-ai-ran-field-kit) (umbrella)
+- [spectrumx-ai-ran-gary](https://github.com/gunnchOS3k/spectrumx-ai-ran-gary) · [edge-io-measurement-node](https://github.com/gunnchOS3k/edge-io-measurement-node) · [7gc-digital-twin](https://github.com/gunnchOS3k/7gc-digital-twin)
+- Portal index: [gunnchos-research-portal](https://github.com/gunnchOS3k/gunnchos-research-portal)
+
+## Current claim boundary
+
+This portfolio contains **research prototypes**, **mock-safe security demos**, console-device architecture, and educational/community deployment planning. It does **not** claim commercial 6G deployment, carrier-grade AI-RAN, certified hardware, production SOC automation, or finished silicon.
+
 ---
 
 ## 🎯 Now
