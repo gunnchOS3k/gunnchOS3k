@@ -7,45 +7,76 @@
   <title>gunnchOS3k profile · gunnchOS</title>
   <link rel="stylesheet" href="/styles.css">
 </head>
-<body style="--accent:#f4f1ea">
+<body data-surfacekit="v2" data-theme="dark">
   <a class="skip" href="#content">Skip to content</a>
   <header class="top">
     <p class="mark">gunnchOS</p>
-    <a id="portal-return" href="#return" aria-label="Return to gunnchOS">← gunnchOS</a>
+    <nav class="tools" aria-label="Surface">
+      <button type="button" id="theme-toggle">Light theme</button>
+      <a id="portal-return" href="#return" aria-label="Return to gunnchOS">← gunnchOS</a>
+    </nav>
   </header>
   <main id="content">
-    <p class="kicker">gunnchOS</p>
+    <p class="kicker">gunnchOS · STAGING_WORKER</p>
     <h1>gunnchOS3k profile</h1>
-    <p class="badge">STAGING_WORKER</p>
     <p class="lead">GitHub profile repository for gunnchOS3k. It organizes the public identity of the account. It is not a product runtime.</p>
-    <section aria-labelledby="what">
-      <h2 id="what">What is this?</h2>
-      <p>GitHub profile repository for gunnchOS3k. It organizes the public identity of the account. It is not a product runtime.</p>
-      <p>This is a directory, not the underlying product.</p>
+    
+    <p><a class="cta" id="primary-action" href="#explore">Browse directory</a></p>
+    <section id="explore" aria-labelledby="explore-title">
+      <h2 id="explore-title">Browse directory</h2>
+      <p id="diagram-note"></p>
+      <div class="layout">
+        <div>
+          <svg id="diagram" role="img" aria-labelledby="diagram-note" viewBox="0 0 640 160"></svg>
+          <label for="row-select">Repository record</label>
+          <select id="row-select"></select>
+          <label for="row-filter">Filter records</label>
+          <input id="row-filter" type="search" placeholder="Filter by text in the repository records">
+        </div>
+        <div id="detail" tabindex="0" aria-live="polite"></div>
+      </div>
+      <div id="directory"></div>
+      <table id="evidence">
+        <caption>Records copied from this repository</caption>
+        <thead><tr id="evidence-head"></tr></thead>
+        <tbody id="evidence-body"></tbody>
+      </table>
     </section>
-    <section aria-labelledby="why">
-      <h2 id="why">Why does it exist?</h2>
-      <p>It gives this repository a public web surface inside the gunnchOS ecosystem without pretending the original runtime runs on Cloudflare Workers.</p>
+    <section id="overview" aria-labelledby="overview-title">
+      <h2 id="overview-title">Overview</h2>
+      <div class="cards"><article><h3>Overview</h3><p># Hi there, I'm Edmund Gunn, Jr. 👋 **Computer Engineer &amp; 6G / Edge AI Researcher** | Building **gunnchOS3k MLV** to end the digital divide through equitable wireless access and community-driven education. I'm an MS Computer Engineering graduate from NYU Tandon specializing in **6G URLLC beam management**, **edge AI systems**, and **AI-native RAN controllers**. As founder of gunnchOS3k MLV, I lead initiatives like **W</p></article><article><h3>🎯 Now</h3><p>- **Completing MS Computer Engineering** at NYU Tandon (Dec 2025) | Focus: 6G URLLC, Secure SoC Design, Edge AI - **SpectrumX Student Competition**: Building AI-native RAN controller for equitable spectrum allocation (Gary, IN focus) - **Purdue Lean Six Sigma Black Belt** | Process optimization for research workflows - **Targeting 6G PhD** at University of Oulu 6G Flagship or equivalent programs | Research interests:</p></article><article><h3>🌟 Flagship Projects</h3><p>### 📡 [6G URLLC Beam Management](https://github.com/gunnchOS3k/ECE-6023-Final-Project) | [ReadyGary: 6G Beam Selection](https://github.com/gunnchOS3k/readygary-6g-beam-selection) **Mathematical Modeling | Statistical Analysis | AI-Native RAN** Developing predictive beam selection algorithms for 6G Ultra-Reliable Low-Latency Communication (URLLC) systems. Combining statistical time-series analysis, deep learning (LSTM</p></article></div>
     </section>
-    <section aria-labelledby="today">
-      <h2 id="today">What can I actually do with it today?</h2>
-      <ul><li>Read what this repository is</li><li>Open the source repository</li></ul>
+    <section id="methods" aria-labelledby="methods-title">
+      <h2 id="methods-title">Methods</h2>
+      <p>Run the repository locally. This Worker does not execute the native toolchain.</p>
+      <p>Native research runtimes stay on a local checkout. This page shows repository records only.</p>
     </section>
-    <section aria-labelledby="tech">
-      <h2 id="tech">What technology is inside it?</h2>
-      <p>Classification META_DIRECTORY_WORKER. Accepted source <code>654ca8c809c35f1b524a1898a8f845cafee3b74d</code>.</p>
+    <section id="artifacts" aria-labelledby="artifacts-title">
+      <h2 id="artifacts-title">Artifacts</h2>
+      <ul><li>No packaged download was attached on this page. Use the source repository.</li></ul>
     </section>
-    <section aria-labelledby="evidence">
-      <h2 id="evidence">What evidence exists?</h2>
-      <p><a href="https://github.com/gunnchOS3k/gunnchOS3k">Source repository</a>. Read the repository for methods, results, and status. This page does not add new experimental claims.</p>
+    <section id="source" aria-labelledby="source-title">
+      <h2 id="source-title">Source</h2>
+      <p><a href="https://github.com/gunnchOS3k/gunnchOS3k">Source repository</a></p>
+      <p>Pinned source <code>654ca8c809c35f1b524a1898a8f845cafee3b74d</code></p>
     </section>
-    <section aria-labelledby="limits">
-      <h2 id="limits">What is not finished?</h2>
+    <section id="limits" aria-labelledby="limits-title">
+      <h2 id="limits-title">Limitations</h2>
       <ul><li>Profile config is not the gunnchos.com gateway</li><li>No product executes here</li></ul>
     </section>
-    <section aria-labelledby="fit">
-      <h2 id="fit">Where does it fit in gunnchOS?</h2>
-      <p>Family: gunnchOS. Return with the gunnchOS link in the header.</p>
+    <section id="about" aria-labelledby="about-title">
+      <h2 id="about-title">About / Build status / Evidence</h2>
+      <h2 id="what">What is this?</h2>
+      <p>GitHub profile repository for gunnchOS3k. It organizes the public identity of the account. It is not a product runtime.</p>
+      <p>The research code is not executing here. This is a research surface.</p>
+      <h2 id="why">Why does it exist?</h2>
+      <p>It gives this repository a public web surface inside the gunnchOS ecosystem without pretending the original runtime runs on Cloudflare Workers.</p>
+      <h2 id="today">What can I actually do with it today?</h2>
+      <p>Use the primary action to inspect repository records, then open the source for the local toolchain.</p>
+      <h2 id="unfinished">What is not finished?</h2>
+      <ul><li>Profile config is not the gunnchos.com gateway</li><li>No product executes here</li></ul>
+      <p class="badge">STAGING_WORKER</p>
+      <p>Runtime mode on this page: PRECOMPUTED. No remote model call is made.</p>
     </section>
   </main>
   <script src="/app.js"></script>
