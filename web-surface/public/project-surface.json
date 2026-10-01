@@ -1,0 +1,21 @@
+{
+  "repo": "gunnchOS3k",
+  "productName": "gunnchOS3k profile",
+  "family": "gunnchOS",
+  "classification": "META_DIRECTORY_WORKER",
+  "acceptedSha": "654ca8c809c35f1b524a1898a8f845cafee3b74d",
+  "status": "STAGING_WORKER",
+  "summary": "GitHub profile repository for gunnchOS3k. It organizes the public identity of the account. It is not a product runtime.",
+  "capabilities": [
+    "Read what this repository is",
+    "Open the source repository"
+  ],
+  "limitations": [
+    "Profile config is not the gunnchos.com gateway",
+    "No product executes here"
+  ],
+  "sourceUrl": "https://github.com/gunnchOS3k/gunnchOS3k",
+  "returnUrlEnv": "GUNNCHOS_PORTAL_URL",
+  "returnUrl": "https://gunnchos-site.gunnchos-finds.workers.dev",
+  "workerName": "gunnchos-ecosystem-index"
+}
