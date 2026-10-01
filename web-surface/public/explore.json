@@ -1,0 +1,124 @@
+{
+  "schema": "gunnchos.surfacekit.v2",
+  "measured_topology": false,
+  "diagram_note": "Reading aid built from repository headings. It is not a measured topology and it is not a live system.",
+  "nodes": [
+    {
+      "id": "overview",
+      "label": "Overview"
+    },
+    {
+      "id": "now",
+      "label": "\ud83c\udfaf Now"
+    },
+    {
+      "id": "flagship-projects",
+      "label": "\ud83c\udf1f Flagship Projects"
+    },
+    {
+      "id": "research-interests",
+      "label": "\ud83d\udd2c Research Interests"
+    }
+  ],
+  "rows": [
+    {
+      "source": "README.md",
+      "scenario_id": "Overview",
+      "site_id": "gunnchOS",
+      "ethical_framing": "# Hi there, I'm Edmund Gunn, Jr. \ud83d\udc4b **Computer Engineer & 6G / Edge AI Researcher** | Building **gunnchOS3k MLV** to end the digital divide through equitable wireless access and community-driven education. I'm an MS Computer Engineering graduate from NYU Tandon specializing in **6G URLLC beam management**, **edge AI systems**, and **AI-native RAN controllers**. As founder of gunnchOS3k MLV, I lead initiatives like **W"
+    },
+    {
+      "source": "README.md",
+      "scenario_id": "\ud83c\udfaf Now",
+      "site_id": "gunnchOS",
+      "ethical_framing": "- **Completing MS Computer Engineering** at NYU Tandon (Dec 2025) | Focus: 6G URLLC, Secure SoC Design, Edge AI - **SpectrumX Student Competition**: Building AI-native RAN controller for equitable spectrum allocation (Gary, IN focus) - **Purdue Lean Six Sigma Black Belt** | Process optimization for research workflows - **Targeting 6G PhD** at University of Oulu 6G Flagship or equivalent programs | Research interests:"
+    },
+    {
+      "source": "README.md",
+      "scenario_id": "\ud83c\udf1f Flagship Projects",
+      "site_id": "gunnchOS",
+      "ethical_framing": "### \ud83d\udce1 [6G URLLC Beam Management](https://github.com/gunnchOS3k/ECE-6023-Final-Project) | [ReadyGary: 6G Beam Selection](https://github.com/gunnchOS3k/readygary-6g-beam-selection) **Mathematical Modeling | Statistical Analysis | AI-Native RAN** Developing predictive beam selection algorithms for 6G Ultra-Reliable Low-Latency Communication (URLLC) systems. Combining statistical time-series analysis, deep learning (LSTM"
+    },
+    {
+      "source": "README.md",
+      "scenario_id": "\ud83d\udd2c Research Interests",
+      "site_id": "gunnchOS",
+      "ethical_framing": "Aligned with **University of Oulu 6G Flagship** and global 6G research priorities: - **6G Testbeds & Smart Societies**: Digital twins, edge computing infrastructure, community-driven deployments - **AI-Native RAN**: Machine learning for radio resource management, beam selection, spectrum sharing - **Digital Equity**: Bridging the digital divide through accessible 6G technologies, WAIKE Gary UPNOW initiative - **Spect"
+    },
+    {
+      "source": "README.md",
+      "scenario_id": "\ud83d\udcbc Professional Experience",
+      "site_id": "gunnchOS",
+      "ethical_framing": "### Founder & CEO | gunnchOS3k MLV | 2022 - Present Leading research and development for 6G wireless systems, edge AI platforms, and community education initiatives. Founded **WAIKE Gary UPNOW** (Wireless + AI Kinesthetic Education) to provide accessible technology education in underserved communities. - Quantitative research and algorithm development for 6G wireless systems - Linux-based systems engineering and infr"
+    },
+    {
+      "source": "README.md",
+      "scenario_id": "\ud83c\udf93 Education",
+      "site_id": "gunnchOS",
+      "ethical_framing": "- \ud83c\udf93 **MS Computer Engineering** - New York University, Tandon School of Engineering - *Focus: 6G URLLC Beam Management, Secure SoC Design, Edge AI* - *Graduated: May 2026 | GPA: 3.4* - \ud83c\udf93 **BS Computer Information Technology** - Purdue University - *Graduated: December 2021 | GPA: 3.71* - *Dean's List, Lean Six Sigma Green Belt* ---"
+    }
+  ],
+  "sources": [],
+  "sections": [
+    {
+      "id": "overview",
+      "title": "Overview",
+      "body": "# Hi there, I'm Edmund Gunn, Jr. \ud83d\udc4b **Computer Engineer & 6G / Edge AI Researcher** | Building **gunnchOS3k MLV** to end the digital divide through equitable wireless access and community-driven education. I'm an MS Computer Engineering graduate from NYU Tandon specializing in **6G URLLC beam management**, **edge AI systems**, and **AI-native RAN controllers**. As founder of gunnchOS3k MLV, I lead initiatives like **W"
+    },
+    {
+      "id": "now",
+      "title": "\ud83c\udfaf Now",
+      "body": "- **Completing MS Computer Engineering** at NYU Tandon (Dec 2025) | Focus: 6G URLLC, Secure SoC Design, Edge AI - **SpectrumX Student Competition**: Building AI-native RAN controller for equitable spectrum allocation (Gary, IN focus) - **Purdue Lean Six Sigma Black Belt** | Process optimization for research workflows - **Targeting 6G PhD** at University of Oulu 6G Flagship or equivalent programs | Research interests:"
+    },
+    {
+      "id": "flagship-projects",
+      "title": "\ud83c\udf1f Flagship Projects",
+      "body": "### \ud83d\udce1 [6G URLLC Beam Management](https://github.com/gunnchOS3k/ECE-6023-Final-Project) | [ReadyGary: 6G Beam Selection](https://github.com/gunnchOS3k/readygary-6g-beam-selection) **Mathematical Modeling | Statistical Analysis | AI-Native RAN** Developing predictive beam selection algorithms for 6G Ultra-Reliable Low-Latency Communication (URLLC) systems. Combining statistical time-series analysis, deep learning (LSTM"
+    },
+    {
+      "id": "research-interests",
+      "title": "\ud83d\udd2c Research Interests",
+      "body": "Aligned with **University of Oulu 6G Flagship** and global 6G research priorities: - **6G Testbeds & Smart Societies**: Digital twins, edge computing infrastructure, community-driven deployments - **AI-Native RAN**: Machine learning for radio resource management, beam selection, spectrum sharing - **Digital Equity**: Bridging the digital divide through accessible 6G technologies, WAIKE Gary UPNOW initiative - **Spect"
+    },
+    {
+      "id": "professional-experience",
+      "title": "\ud83d\udcbc Professional Experience",
+      "body": "### Founder & CEO | gunnchOS3k MLV | 2022 - Present Leading research and development for 6G wireless systems, edge AI platforms, and community education initiatives. Founded **WAIKE Gary UPNOW** (Wireless + AI Kinesthetic Education) to provide accessible technology education in underserved communities. - Quantitative research and algorithm development for 6G wireless systems - Linux-based systems engineering and infr"
+    },
+    {
+      "id": "education",
+      "title": "\ud83c\udf93 Education",
+      "body": "- \ud83c\udf93 **MS Computer Engineering** - New York University, Tandon School of Engineering - *Focus: 6G URLLC Beam Management, Secure SoC Design, Edge AI* - *Graduated: May 2026 | GPA: 3.4* - \ud83c\udf93 **BS Computer Information Technology** - Purdue University - *Graduated: December 2021 | GPA: 3.71* - *Dean's List, Lean Six Sigma Green Belt* ---"
+    }
+  ],
+  "artifacts": [],
+  "methods": "",
+  "cards": [
+    {
+      "title": "Overview",
+      "body": "# Hi there, I'm Edmund Gunn, Jr. \ud83d\udc4b **Computer Engineer & 6G / Edge AI Researcher** | Building **gunnchOS3k MLV** to end the digital divide through equitable wireless access and community-driven education. I'm an MS Computer Engineering graduate from NYU Tandon specializing in **6G URLLC beam management**, **edge AI systems**, and **AI-native RAN controllers**. As founder of gunnchOS3k MLV, I lead initiatives like **W"
+    },
+    {
+      "title": "\ud83c\udfaf Now",
+      "body": "- **Completing MS Computer Engineering** at NYU Tandon (Dec 2025) | Focus: 6G URLLC, Secure SoC Design, Edge AI - **SpectrumX Student Competition**: Building AI-native RAN controller for equitable spectrum allocation (Gary, IN focus) - **Purdue Lean Six Sigma Black Belt** | Process optimization for research workflows - **Targeting 6G PhD** at University of Oulu 6G Flagship or equivalent programs | Research interests:"
+    },
+    {
+      "title": "\ud83c\udf1f Flagship Projects",
+      "body": "### \ud83d\udce1 [6G URLLC Beam Management](https://github.com/gunnchOS3k/ECE-6023-Final-Project) | [ReadyGary: 6G Beam Selection](https://github.com/gunnchOS3k/readygary-6g-beam-selection) **Mathematical Modeling | Statistical Analysis | AI-Native RAN** Developing predictive beam selection algorithms for 6G Ultra-Reliable Low-Latency Communication (URLLC) systems. Combining statistical time-series analysis, deep learning (LSTM"
+    },
+    {
+      "title": "\ud83d\udd2c Research Interests",
+      "body": "Aligned with **University of Oulu 6G Flagship** and global 6G research priorities: - **6G Testbeds & Smart Societies**: Digital twins, edge computing infrastructure, community-driven deployments - **AI-Native RAN**: Machine learning for radio resource management, beam selection, spectrum sharing - **Digital Equity**: Bridging the digital divide through accessible 6G technologies, WAIKE Gary UPNOW initiative - **Spect"
+    },
+    {
+      "title": "\ud83d\udcbc Professional Experience",
+      "body": "### Founder & CEO | gunnchOS3k MLV | 2022 - Present Leading research and development for 6G wireless systems, edge AI platforms, and community education initiatives. Founded **WAIKE Gary UPNOW** (Wireless + AI Kinesthetic Education) to provide accessible technology education in underserved communities. - Quantitative research and algorithm development for 6G wireless systems - Linux-based systems engineering and infr"
+    },
+    {
+      "title": "\ud83c\udf93 Education",
+      "body": "- \ud83c\udf93 **MS Computer Engineering** - New York University, Tandon School of Engineering - *Focus: 6G URLLC Beam Management, Secure SoC Design, Edge AI* - *Graduated: May 2026 | GPA: 3.4* - \ud83c\udf93 **BS Computer Information Technology** - Purdue University - *Graduated: December 2021 | GPA: 3.71* - *Dean's List, Lean Six Sigma Green Belt* ---"
+    }
+  ],
+  "runtime_mode": "PRECOMPUTED",
+  "runtime_boot": false
+}
